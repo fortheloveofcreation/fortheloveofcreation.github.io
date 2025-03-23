@@ -1,1 +1,1 @@
-This is my portfolio. Used only HTML and CSS in accordance with the requirements for Assignment 1 for IS-601.
+This is a website showcasing my software developer's profile, made with HTML, CSS, JS and Bootstrap.
