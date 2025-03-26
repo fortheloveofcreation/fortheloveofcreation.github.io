@@ -1,15 +1,3 @@
-/**
-* Template Name: iPortfolio
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Updated: Jun 29 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# Font & Color Variables
-# Help: https://bootstrapmade.com/color-system/
---------------------------------------------------------------*/
 /* Fonts */
 :root {
   --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -1276,11 +1264,11 @@ border-radius: 50%;
   line-height: 1;
 }
 
-.size-1 { font-size: 20px; color: #062925; font-family: var(--heading-font); }
-.size-2 { font-size: 24px; color: #044a42; font-family: var(--heading-font); }
-.size-3 { font-size: 28px; color: #3a9188; font-family: var(--heading-font); }
-.size-4 { font-size: 32px; color: #b8e1dd; font-family: var(--heading-font); }
-.size-5 { font-size: 36px; color: black; font-family: var(--heading-font); }
+.size-1 { font-size: 16px; color: #062925; font-family: var(--heading-font); }
+.size-2 { font-size: 20px; color: #044a42; font-family: var(--heading-font); }
+.size-3 { font-size: 24px; color: #3a9188; font-family: var(--heading-font); }
+.size-4 { font-size: 28px; color: #b8e1dd; font-family: var(--heading-font); }
+.size-5 { font-size: 32px; color: black; font-family: var(--heading-font); }
 
 .word-cloud span:hover {
   transform: scale(1.2);
