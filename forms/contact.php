@@ -12,7 +12,7 @@
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
   } else {
-    die( 'Unable to load the "PHP Email Form" Library!');
+    die( 'Please email swathired123@outlook.com directly as the server is down');
   }
 
   $contact = new PHP_Email_Form;
