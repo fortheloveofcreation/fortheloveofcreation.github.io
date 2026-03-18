@@ -1,17 +1,8 @@
-/**
-* Template Name: iPortfolio
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Updated: Jun 29 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 (function() {
   "use strict";
 
-  /**
-   * Header toggle
-   */
+ 
   const headerToggleBtn = document.querySelector('.header-toggle');
 
   function headerToggle() {
@@ -21,9 +12,7 @@
   }
   headerToggleBtn.addEventListener('click', headerToggle);
 
-  /**
-   * Hide mobile nav on same-page/hash links
-   */
+
   document.querySelectorAll('#navmenu a').forEach(navmenu => {
     navmenu.addEventListener('click', () => {
       if (document.querySelector('.header-show')) {
